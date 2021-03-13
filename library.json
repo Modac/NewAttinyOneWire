@@ -1,0 +1,20 @@
+{
+  "name": "NewAttinyOneWire",
+  "version": "0.1",
+  "description": "A OneWire library for the \"new\" Attiny chips using the One-Wire Half-Duplex mode of the USART.",
+  "keywords": "attiny, serial, onewire, usart",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/Modac/NewAttinyOneWire.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Pascal Goldbrunner"
+    }
+  ],
+  "license": "MIT",
+  "frameworks": "*",
+  "platforms": "atmelmegaavr"
+}
