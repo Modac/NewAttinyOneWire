@@ -1,6 +1,9 @@
 #ifndef NewAttinyOneWire_h
 #define NewAttinyOneWire_h
 
-Serial.begin();
+class NewAttinyOneWire {
+    public:
+        static void initOneWireUART();
+};
 
 #endif
